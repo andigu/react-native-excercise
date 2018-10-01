@@ -1,0 +1,128 @@
+{
+  "slots": [
+    {
+      "header": "Today",
+      "date": "Sep 29th",
+      "times": [
+        {
+          "time": "Within an hour",
+          "disabled": false
+        },
+        {
+          "time": "5:00 PM - 6:00 PM",
+          "disabled": false
+        },
+        {
+          "time": "6:00 PM - 7:00 PM",
+          "disabled": false
+        },
+        {
+          "time": "7:00 PM - 8:00 PM",
+          "disabled": true
+        },
+        {
+          "time": "8:00 PM - 9:00 PM",
+          "disabled": false
+        },
+        {
+          "time": "9:00 PM - 10:00 PM",
+          "disabled": true
+        },
+        {
+          "time": "10:00 PM - 11:00 PM",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "header": "Tomorrow",
+      "date": "Sep 30th",
+      "times": [
+        {
+          "time": "5:00 PM - 6:00 PM",
+          "disabled": false
+        },
+        {
+          "time": "6:00 PM - 7:00 PM",
+          "disabled": false
+        },
+        {
+          "time": "7:00 PM - 8:00 PM",
+          "disabled": true
+        },
+        {
+          "time": "8:00 PM - 9:00 PM",
+          "disabled": false
+        },
+        {
+          "time": "9:00 PM - 10:00 PM",
+          "disabled": true
+        },
+        {
+          "time": "10:00 PM - 11:00 PM",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "header": "Monday",
+      "date": "Oct 1st",
+      "times": [
+        {
+          "time": "5:00 PM - 6:00 PM",
+          "disabled": false
+        },
+        {
+          "time": "6:00 PM - 7:00 PM",
+          "disabled": false
+        },
+        {
+          "time": "7:00 PM - 8:00 PM",
+          "disabled": true
+        },
+        {
+          "time": "8:00 PM - 9:00 PM",
+          "disabled": false
+        },
+        {
+          "time": "9:00 PM - 10:00 PM",
+          "disabled": true
+        },
+        {
+          "time": "10:00 PM - 11:00 PM",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "header": "Tuesday",
+      "date": "Oct 2nd",
+      "times": [
+        {
+          "time": "5:00 PM - 6:00 PM",
+          "disabled": false
+        },
+        {
+          "time": "6:00 PM - 7:00 PM",
+          "disabled": false
+        },
+        {
+          "time": "7:00 PM - 8:00 PM",
+          "disabled": true
+        },
+        {
+          "time": "8:00 PM - 9:00 PM",
+          "disabled": false
+        },
+        {
+          "time": "9:00 PM - 10:00 PM",
+          "disabled": true
+        },
+        {
+          "time": "10:00 PM - 11:00 PM",
+          "disabled": false
+        }
+      ]
+    }
+  ]
+}
